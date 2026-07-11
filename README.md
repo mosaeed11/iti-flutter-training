@@ -12,7 +12,7 @@ It documents my learning journey from **Dart fundamentals** to **Flutter applica
 |------|-------------------------|:------:|
 | D4 | Dart Basics | ✅ Completed |
 | D5 | Dart Control Flow | ✅ Completed |
-| D6 | Dart Challenges | ⏳ Waiting |
+| D6 | Dart Oop | ✅ Completed |
 
 > More Flutter days will be added after completing the Dart fundamentals.
 
